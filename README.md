@@ -10,7 +10,7 @@ The Colorado Board of Elections is interested in automating the vote count proce
 
 ## Results
    - Total Votes: 369,711
-- Volume of votes by county
+- Volume of votes by county:
    - Jefferson: 38,855 votes (10.5%)
    - Denver: 306,055 votes (82.8%)
    - Arapahoe: 24,801 votes (6.7%)
